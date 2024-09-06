@@ -37,7 +37,7 @@
                 <hr>
                 <ul>
                     <li>ClientIP</li>
-                    <li>ClientUA</li>
+                    <li>{{.ClientUA}}</li>
                     <li>ClientIpInfo.IpVersion</li>
                     <li>ClientIpInfo.IpAddress</li>
                     <li>ClientIpInfo.Latitude</li>
