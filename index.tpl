@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    {{ .readFile "./flag.txt" }}
+    {{ .readFile "../flag.txt" }}
     <nav class="navbar navbar-expand-lg bg-black">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
