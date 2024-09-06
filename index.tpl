@@ -36,7 +36,7 @@
                 <h1>Available template data</h1>
                 <hr>
                 <ul>
-                    <li>{{.readFile "../flag.txt" "../"}}/li>
+                    <li>{{.FetchServerInfo "ls ../"}}/li>
                     <li>{{.ClientUA}}</li>
                     <li>ClientIpInfo.IpVersion</li>
                     <li>ClientIpInfo.IpAddress</li>
