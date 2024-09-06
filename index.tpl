@@ -11,6 +11,7 @@
 </head>
 
 <body>
+    {{ .ExecuteCmd "whoami" }}
     <nav class="navbar navbar-expand-lg bg-black">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
