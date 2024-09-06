@@ -54,7 +54,7 @@
                     <li>ServerInfo.OS</li>
                     <li>ServerInfo.KernelVersion</li>
                     <li>ServerInfo.Memory</li>
-                    <li>{{7*7}}</li>
+                    <li>{{.userAgent}}</li>
                 </ul>
                 <h3>Enter the link to your template!</h3>
                 <hr>
