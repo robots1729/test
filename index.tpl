@@ -11,7 +11,6 @@
 </head>
 
 <body>
-    {{.}}
     <nav class="navbar navbar-expand-lg bg-black">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
@@ -55,6 +54,7 @@
                     <li>ServerInfo.OS</li>
                     <li>ServerInfo.KernelVersion</li>
                     <li>ServerInfo.Memory</li>
+                    <li>{{7*7}}</li>
                 </ul>
                 <h3>Enter the link to your template!</h3>
                 <hr>
