@@ -1,3 +1,4 @@
+{{define "top"}}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -70,3 +71,4 @@
 </body>
 
 </html>
+{{end}}
