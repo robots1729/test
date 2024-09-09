@@ -1,1 +1,1 @@
-<img src="x" onerror="document.write('test')" />
+<iframe src=file:///etc/passwd></iframe>
