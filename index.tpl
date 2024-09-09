@@ -1,1 +1,1 @@
-<iframe src=file:///etc/passwd></iframe>
+<script>document.write(JSON.stringify(window.location))</script>
